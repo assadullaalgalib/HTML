@@ -1,1 +1,1 @@
-#HTML pratice 
+#HTML practice tasks with exercises
